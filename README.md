@@ -3,17 +3,10 @@
 
 <img align="right" alt="cooding" width ="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-abdullah-tahir-malik&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-abdullah-tahir-malik" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-abdullah-tahir-malik" alt="muhammad-abdullah-tahir-malik" /></a> </p>
 
 - 🔭 I’m currently working on [Spotter Security](https://www.spottersecurity.com/)
 
 - 🌱 I’m currently learning **generative AI from PIAIC**
-
-- 👯 I’m looking to collaborate on [Evoliroofing](https://www.evoliconstruction.com/)
-
-- 🤝 I’m looking for help with [Elite Rooter](https://www.eliterooter.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammad-Abdullah-Tahir-Mali](https://github.com/Muhammad-Abdullah-Tahir-Mali)
 
